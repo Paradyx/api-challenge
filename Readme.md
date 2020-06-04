@@ -5,8 +5,8 @@ It was first created as a challenge during a job application, but then evolved i
 So except for training purposes, there is **nothing** useful to this project. 
 
 ## The Challenge
-A customer bought a new application and want's us to retrieve usage data 
-from it's internal API. Unfortunatley, we don't know how the application works. 
+A customer bought a new application and wants us to retrieve usage data 
+from its internal API. Unfortunately, we don't know how the application works. 
 The customer only gave us the executable which exposes the usage data 
 on `127.0.0.1:8000/usage/{pageNo}`.
 
